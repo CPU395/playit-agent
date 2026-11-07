@@ -1,6 +1,7 @@
 # The playit program
 
-* Latest Release: 1.1.X
+* The Update only Starts from v1.2.0
+* Latest Release: 1.2.X
 * Offical Website: https://playit.gg
 * Offical Downloads: https://playit.gg/download
 * Releases: https://github.com/playit-cloud/playit-agent/releases
