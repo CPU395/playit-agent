@@ -1,6 +1,7 @@
 # The playit program
 
 * The Update only Starts from v1.2.0
+* Works for linux/ubuntu/windows-7,8,8.1,10,11
 * Latest Release: 1.2.X
 * Offical Website: https://playit.gg
 * Offical Downloads: https://playit.gg/download
