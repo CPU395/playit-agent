@@ -1,7 +1,7 @@
 # The playit program
 
 * The Update only Starts from v1.2.0
-* New feature: It can now run in Windows= 7/8/8.1
+* New feature: It can now run in Windows 7/8/8.1
 * Latest Release: 1.2.X
 * Offical Website: https://playit.gg
 * Offical Downloads: https://playit.gg/download
